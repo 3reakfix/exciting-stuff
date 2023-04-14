@@ -1,1 +1,1 @@
-#H2 Security, technology, and more.
+## Security, technology, and more.
